@@ -43,14 +43,14 @@
 .skills {
   text-align: right; /* Right-align text */
   padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
+  padding-bottom: 20px; /* Add bottom padding */
   color: white; /* White text color */
 }
 
-.html {width: 80%; background-color: #be7df0;} /* Green */
-.css {width: 80%; background-color: #be7df0;} /* Blue */
-.js {width: 80%; background-color: #be7df0;} /* Red */
-.cs {width: 80%; background-color: #be7df0;} /* Dark Grey */
+.html {width: 85%; background-color: #be7df0;} /* Green */
+.css {width: 75%; background-color: #be7df0;} /* Blue */
+.js {width: 75%; background-color: #be7df0;} /* Red */
+.cs {width: 75%; background-color: #be7df0;} /* Dark Grey */
 
 body {
 	font-family: Muli, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
